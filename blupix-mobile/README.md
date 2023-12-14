@@ -6,7 +6,7 @@ We introduce Blupix, a mobile application with embedded computing functionality 
 
 ## Downloadable file:
 
-The APK file will be released in October 2023 on this page. Stay tuned!
+The APK file will be released in early 2024 on this page. Stay tuned!
 
 
 ## Using traffic signs as measurement benchmarks
