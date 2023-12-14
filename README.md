@@ -2,12 +2,12 @@
 
 Thank you for using BluPix! The photos you take and share on our crowdsourcing applications will help your community better document and understand the impact of floods in your area. Our models compare pre-flood and post-flood photos of the same location to estimate the depth of floodwater in that particular location. We use traffic signs as benchmarks since their shapes and sizes are standardized anywhere in the country. With your help, BluPix will assist communities and disaster response teams in mitigating flood risk, which saves lives, resources, and infrastructure.
 
-| Product  | Description | Link | Reference Papers|
+| Product  | Description | Link | Published Papers|
 | ------------- | ------------- | ------------- | ------------- |
-| Blupix  | A crowdsourcing web application for collecting photos of flooded stop signs. This web app uses AI algorithms to calculate flood depth based on the size of stop signs and generate a flood depth map. | [Link](https://blupix.geos.tamu.edu/) | |
-| Blupix Preflood  | A crowdsourcing web application for collecting photos of stop signs. | [Link](https://blupix-image.geos.tamu.edu/) |
-| Blupix Mobile  | An Android mobile app for real-time flood depth estimation in urban areas. | [Link](https://github.com/ciber-lab/blupix/tree/main/blupix-mobile) |
-| Blupix Dataset  | Annotated photos of stop signs before and after flood. | [Link](https://github.com/ciber-lab/blupix/tree/main/blupix-dataset) |
+| Blupix  | A crowdsourcing web application for collecting photos of flooded stop signs. This web app uses AI algorithms to calculate flood depth based on the size of stop signs and generate a flood depth map. | [Link](https://blupix.geos.tamu.edu/) | [^3]|
+| Blupix Preflood  | A crowdsourcing web application for collecting photos of stop signs. | [Link](https://blupix-image.geos.tamu.edu/) | |
+| Blupix Mobile  | An Android mobile app for real-time flood depth estimation in urban areas. | [Link](https://github.com/ciber-lab/blupix/tree/main/blupix-mobile) | [^6] |
+| Blupix Dataset  | Annotated photos of stop signs before and after flood. | [Link](https://github.com/ciber-lab/blupix/tree/main/blupix-dataset) | [^1] [^2] [^3] [^4] [^5] [^7] |
 
 
 
@@ -44,3 +44,20 @@ The depth of floodwater, i.e., d_w, can be calculated as the difference between 
 This project is conducted at Texas A&M University under award #NA18OAR4170088 from the National Oceanic and Atmospheric Administration (NOAA), U.S. Department of Commerce. Study personnel are Dr. Amir Behzadan (Construction Science), Dr. Courtney Thompson (Geography), Dr. Zhe Zhang (Geography), and Dr. Michelle Meyer (Hazard Reduction and Recovery Center). Dr. Bahareh Alizadeh (Ph.D. graduate from Texas A&M University) developed and trained the computer vision models, developed Blupix Mobile app, Blupix dataset, and is responsible for reviewing and analyzing crowdsourced photos uploaded to the Blupix app, Blupix Preflood, and Blupix Mobile. Diya Li (Ph.D. Student at Texas A&M University) adminsters user interface and web components of Blupix app and Blupix Preflood.
 
 
+## Published papers (APA format):
+
+[^1]: Alizadeh, B., & Behzadan, A. H. (2023). Scalable flood inundation mapping using deep convolutional networks and traffic signage. Computational Urban Science, 3(1), 17.                         https://doi.org/10.1007/s43762-023-00090-1 
+
+[^2]: Hillin, Julia, Alizadeh Kharazi, Bahareh; Li, Diya; Thompson, Courtney; Meyer, Michelle; Zhang, Zhe; & Behzadan, Amir H. (In Press), Designing user-centered decision support systems for climate disasters: What information do communities and rescue responders need during floods? Journal of Emergency Management. (Accepted 9/7/2022).
+
+[^3]: Alizadeh, Bahareh; Li, Diya; Hillin, Julia; Meyer, Michelle; Thompson, Courtney; Zhang, Zhe; Behzadan Amir H. (2022), Human-Centered Flood Mapping and Intelligent Routing through Augmenting Flood Gauge Data with Crowdsourced Street Photos, Advanced Engineering Informatics, 54, 101730. https://doi.org/10.1016/j.aei.2022.101730. 
+
+[^4]: Alizadeh, Bahareh; & Behzadan, Amir H. (2021), Flood depth mapping in street photos with image processing and deep neural networks. Computers, Environment and Urban Systems, 88, 101628. https://doi.org/10.1016/j.compenvurbsys.2021.101628 
+
+[^5]: Alizadeh Kharazi, Bahareh; & Behzadan, Amir H. (2023), Mapping of 2021–2022 floods in North America from street photos with artificial intelligence, Proceedings of the Institution of Civil Engineers–Smart Infrastructure and Construction, https://doi.org/10.1680/jsmic.22.00029
+
+[^6]: Alizadeh, Bahareh; & Behzadan, Amir H. (2022), Blupix: Citizen science for flood depth estimation in urban roads. The 5th ACM SIGSPATIAL Workshop on Advances on Resilient and Intelligent Cities, Seattle, WA. https://doi.org/10.1145/3557916.3567824 
+
+[^7]: Alizadeh, Bahareh; & Behzadan, Amir H. (2022), Crowdsource-based Deep Convolutional Networks for Urban Flood Depth Mapping. 2022 European Conference on Computing in Construction, Rhodes, Greece. https://doi.org/10.48550/arXiv.2209.09200  
+
+[^8]: Alizadeh, Bahareh; Li, Diya; Zhang, Zhe; Behzadan, Amir H. (2021), Feasibility Study of Urban Flood Mapping Using Traffic Signs for Route Optimization. In the proceeding of 28th EG-ICE International Workshop on Intelligent Computing in Engineering. Berlin, Germany. https://arxiv.org/abs/2109.11712  
