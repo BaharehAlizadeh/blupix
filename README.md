@@ -32,6 +32,10 @@ The depth of floodwater, i.e., d_w, can be calculated as the difference between 
 
 ![img2](concept_fig4.png)
 
+## AI analyzed paired photos of stop signs mapped on Blupix:
+
+![img3](Blupix_map.png)
+
 ## The connection between Blupix products:
 
 - The Blupix app serves as the main platform, accessible via a dedicated website [https://blupix.geos.tamu.edu], where people can upload photos of flooded traffic signs using their mobile devices or computers. Users can manually pair uploaded photos with corresponding pre-flood photos by entering the location of the traffic sign in GSV. The app admin reviews uploaded photos, and subsequently feeds them to a computer vision model for further analysis. The output of this step is the estimate of flood depth, which is also reported on the map alongside the pre- and post-flood photos of the stop sign. Given an uploaded photo pair, if only the post-flood photo is approved by the admin, only the post-flood photo will be pinned on the map which can be paired with the correct pre-flood photo later by the same or other users.
