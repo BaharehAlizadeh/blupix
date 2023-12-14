@@ -2,7 +2,7 @@
 
 We introduce Blupix, a mobile application with embedded computing functionality for on-demand floodwater depth estimation from geocoded photos of submerged stop signs. Blupix allows the user to capture a photo of a submerged stop sign using the camera of the mobile device, automatically obtains and stores the geographical location and azimuth angles of the mobile device when the photo is taken, provides an interactive interface in Google Street View to locate the stop sign in a flood-free view, runs a light object detection model (EfficientDet03) trained to detect stop signs and poles and measure their sizes in pre- and post-flood images, and finally, calculates the depth of floodwater as the difference in pole lengths. The app interface is designed to be easy-to-use and motivated by an operational need in flood emergencies where ordinary people and first response teams need reliable, ad-hoc flood water depth information in their surroundings with minimum access to flood monitoring data or other pre-installed infrastructure.
 
-## Link to the paper: [https://dl.acm.org/doi/abs/10.1145/3557916.3567824]
+## [Link to the published paper](https://dl.acm.org/doi/abs/10.1145/3557916.3567824)
 
 ## Downloadable file:
 
