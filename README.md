@@ -5,7 +5,7 @@ Thank you for using BluPix! The photos you take and share on our crowdsourcing a
 | Product  | Description | Link | Published Papers|
 | ------------- | ------------- | ------------- | ------------- |
 | Blupix  | A crowdsourcing web application for collecting photos of flooded stop signs. This web app uses AI algorithms to calculate flood depth based on the size of stop signs and generate a flood depth map. | [Link](https://blupix.geos.tamu.edu/) | [^3]|
-| Blupix Preflood  | A crowdsourcing web application for collecting photos of stop signs. | [Link](https://blupix-image.geos.tamu.edu/) | |
+| Blupix Preflood  | A crowdsourcing web application for collecting photos of stop signs. | [Link](https://blupix-image.geos.tamu.edu/) | [^6] |
 | Blupix Mobile  | An Android mobile app for real-time flood depth estimation in urban areas. | [Link](https://github.com/ciber-lab/blupix/tree/main/blupix-mobile) | [^6] |
 | Blupix Dataset  | Annotated photos of stop signs before and after flood. | [Link](https://github.com/ciber-lab/blupix/tree/main/blupix-dataset) | [^1] [^2] [^3] [^4] [^5] [^7] |
 
