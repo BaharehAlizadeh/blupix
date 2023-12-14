@@ -33,13 +33,13 @@ Note: The photos in the Blupix dataset are not mutually exclusive, rather they h
 
 
 ### Annotations
-Bounding boxes and masks are two commonly used techniques for annotating images in computer vision tasks. A bounding box is a rectangular box that surrounds an object or region of interest within an image. It is represented by four coordinates: (<object-class> <x_center> <y_center> <width> <height>), which define the top-left and bottom-right corners of the box, however, it does not capture the fine-grained details and shapes of objects within the region of interest. On the other hand, masks provide pixel-level annotations by labeling each pixel within the region of interest. Masks provide detailed and precise information about the shape, boundaries, and contours of objects, making them suitable for tasks such as image segmentation, instance segmentation, and image-to-image translation. In this dataset, we provide mask annotations 
+Bounding boxes and masks are two commonly used techniques for annotating images in computer vision tasks. A bounding box is a rectangular box that surrounds an object or region of interest within an image. It is represented by four coordinates: ("object-class" "x_center" "y_center" "width" "height"), which define the top-left and bottom-right corners of the box, however, it does not capture the fine-grained details and shapes of objects within the region of interest. On the other hand, masks provide pixel-level annotations by labeling each pixel within the region of interest. Masks provide detailed and precise information about the shape, boundaries, and contours of objects, making them suitable for tasks such as image segmentation, instance segmentation, and image-to-image translation. In this dataset, we provide mask annotations 
 
 In the given dataset, mask annotations were provided to offer fine-grained masks for future research. This allows researchers to explore more advanced techniques that rely on pixel-level information and fine-grained segmentation. However, to train a YOLO (You Only Look Once) model, the masks were converted to bounding boxes (using [Roboflow software](https://app.roboflow.com/). This conversion from masks to bounding boxes is a common preprocessing step when using YOLO, as YOLO is primarily designed to work with bounding box annotations. While this approach may not capture the fine-grained details of the original masks, it enables faster and more efficient training and inference for object detection tasks.
 
 For the ground truth labels, the object-class 0 refers to a pole and the object-class 1 refers to a stop sign. For the detected labels, the object-class 1 refers to a pole and the object-class 0 refers to a stop sign. As mentioned earlier, the format of labels is as follow:
 
-( <object-class> <x_center> <y_center> <width> <height> )
+"object-class" "x_center" "y_center" "width" "height"
 
 ## Credits:
 
