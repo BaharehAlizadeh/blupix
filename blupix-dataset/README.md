@@ -10,7 +10,7 @@
 | Blupix test v.2022.1  | Contains 300 annotated paired photos of stop signs (before and after a flood) for testing the object detection model | [Link](https://drive.google.com/drive/folders/1uZK6xXB4W9QYDx8xgNpi7NqQZkEO1Nxq?usp=sharing) | [^5] |
 
 
-## Blupix Dataset Spreadsheet: [TBD](https://drive.google.com/drive/folders/1gPV34yTk2fJOT-111OXHjdch90WN-gaC?usp=sharing)
+## Blupix Datasets Complete Spreadsheet: [TBD](https://drive.google.com/drive/folders/1gPV34yTk2fJOT-111OXHjdch90WN-gaC?usp=sharing)
 
 
 ## Blupix trainining set details
