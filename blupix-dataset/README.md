@@ -45,7 +45,8 @@ The Blupix datasets consist of photos and metadata gathered through a collaborat
 
 ## References:
 
-  -Jounral Articles
+Jounral Articles
+
 [^1]: Alizadeh, B., & Behzadan, A. H. (2023). Scalable flood inundation mapping using deep convolutional networks and traffic signage. Computational Urban Science, 3(1), 17.                         https://doi.org/10.1007/s43762-023-00090-1 
 
 [^2]: Hillin, Julia, Alizadeh Kharazi, Bahareh; Li, Diya; Thompson, Courtney; Meyer, Michelle; Zhang, Zhe; & Behzadan, Amir H. (In Press), Designing user-centered decision support systems for climate disasters: What information do communities and rescue responders need during floods? Journal of Emergency Management. (Accepted 9/7/2022).
@@ -56,7 +57,8 @@ The Blupix datasets consist of photos and metadata gathered through a collaborat
 
 [^5]: Alizadeh Kharazi, Bahareh; & Behzadan, Amir H. (2023), Mapping of 2021–2022 floods in North America from street photos with artificial intelligence, Proceedings of the Institution of Civil Engineers–Smart Infrastructure and Construction, https://doi.org/10.1680/jsmic.22.00029
 
-  -Conference Proceedings
+Conference Proceedings
+
 [^6]: Alizadeh, Bahareh; & Behzadan, Amir H. (2022), Blupix: Citizen science for flood depth estimation in urban roads. The 5th ACM SIGSPATIAL Workshop on Advances on Resilient and Intelligent Cities, Seattle, WA. https://doi.org/10.1145/3557916.3567824 
 
 [^7]: Alizadeh, Bahareh; & Behzadan, Amir H. (2022), Crowdsource-based Deep Convolutional Networks for Urban Flood Depth Mapping. 2022 European Conference on Computing in Construction, Rhodes, Greece. https://doi.org/10.48550/arXiv.2209.09200  
